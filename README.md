@@ -136,6 +136,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any issues or feature requests, please contact
-[Shreya Joshi](mailto:shreyajoshi071003@gmail.com) / [Devanshi Dhabalia](mailto:dhabaliadevanshi@gmail.com).
+[Shreya Joshi](mailto:shreya.joshi2025@gmail.com) / [Devanshi Dhabalia](mailto:dhabaliadevanshi@gmail.com).
 
 --------------------------------------------------------------------------------------------------------------------------
